@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876140457479",
+    "firebase_url": "https://flash-chat-e3af3.firebaseio.com",
+    "project_id": "flash-chat-e3af3",
+    "storage_bucket": "flash-chat-e3af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876140457479:android:6bafef9eb7e557ba0784a2",
+        "android_client_info": {
+          "package_name": "co.ishaan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876140457479-dqckfqktfu6rb8hh3l1fav8q2890evkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQjXODuNZvt534MTn9CiPY7d7KGWjZ22I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876140457479-dqckfqktfu6rb8hh3l1fav8q2890evkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
